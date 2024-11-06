@@ -38,6 +38,7 @@ This is a simple REST API built with Node.js and SQLite for managing a product c
    npm install sqlite3
 
 5. Create a JavaScript file (e.g., setupDatabase.js) to set up the database:
-   
+   ```bash
+   node setupDatabase.js
 
 
